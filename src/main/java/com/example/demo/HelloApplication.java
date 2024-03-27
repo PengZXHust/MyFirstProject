@@ -21,5 +21,7 @@ public class HelloApplication extends Application {
         launch();
         System.out.println(1);
         System.out.println("git练习");
+        System.out.println(2);
+        System.out.println(2);
     }
 }
